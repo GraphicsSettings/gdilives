@@ -12,10 +12,10 @@ body {
   border-radius: 5px;
 }
 .headingFont {
-  font-family: 'Orbitron'
+  font-family: 'Orbitron', sans-serif;
 }
 .bodyFont {
-  font-family: 'Rajdhani'
+  font-family: 'Rajdhani', sans-serif;
 }
 .watchNow {
   font-size: 1.5rem;
