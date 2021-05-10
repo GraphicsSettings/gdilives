@@ -47,5 +47,7 @@ a.watchNow:hover {
   font-family: Veranda;
 }
 .heading {
-  float:left;
+  position: relative;
+  top: 18px;
+  left: 14px;
 }
