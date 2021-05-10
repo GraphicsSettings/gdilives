@@ -40,14 +40,14 @@ a.watchNow:hover {
 .border-black {
   border-color: black !important;
 }
-.myImage {
+.header img {
   float: left;
-  height: 100px;
   width: 100px;
-  font-family: Veranda;
+  height: 100px;
+  background: #555;
 }
-.heading {
+.header h1 {
   position: relative;
-  top: 0px;
-  left: 14px;
+  top: 40px;
+  left: 10px;
 }
