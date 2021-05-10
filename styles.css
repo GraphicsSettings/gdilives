@@ -42,10 +42,10 @@ a.watchNow:hover {
 }
 .myImage {
   float: left;
-  height: 75px;
-  width: 235px;
+  height: 100px;
+  width: 100px;
   font-family: Veranda;
 }
 .heading {
-  float:right;
+  float:left;
 }
